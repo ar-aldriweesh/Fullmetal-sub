@@ -1,0 +1,29 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/ar-aldriweesh/Fullmetal-sub/main
+    subtitles:
+      - season: 1
+        items:
+          - path: /Se01.Ep01.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 1
+          - path: /Se01.Ep02.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 2
+          - path: /Se01.Ep03.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 3
+          - path: /Se01.Ep04.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 4
+          - path: /Se01.Ep05.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 5
+          - path: /Se01.Ep06.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 6
+          - path: /Se01.Ep07.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 7
+          - path: /Se01.Ep08.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 8
+          - path: /Se01.Ep09.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 9
+          - path: /Se01.Ep10.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 10
+          - path: /Se01.Ep11.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 11
+          - path: /Se01.Ep12.%5BFullmetal.Alchemist%5D.NF.Web-DL.Ara.ar.srt
+            episode: 12
